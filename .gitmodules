@@ -1,3 +1,6 @@
 [submodule "text_mining_tutorial"]
 	path = text_mining_tutorial
 	url = https://github.com/SouthernMethodistUniversity/text_mining_with_python
+[submodule "text_mining_data_sets"]
+	path = text_mining_data_sets
+	url = https://github.com/SouthernMethodistUniversity/text_mining_data_sets
